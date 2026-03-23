@@ -21,9 +21,9 @@ The dataset comes from the EM-DAT Global Disaster Database and includes worldwid
  **Key Steps in the Project:**
 1. **Data Cleaning**
 
-* leave empty or put a normal space ;Removed unnecessary columns
-* leave empty or put a normal space ;Handled missing values
-* leave empty or put a normal space ;Created indicator variables for missing data
+* Removed unnecessary columns
+* Handled missing values
+* Created indicator variables for missing data
 
 **2. Feature Engineering**
 
